@@ -9,6 +9,7 @@ body {
 
 a{
     cursor: pointer;
+    color: rgb(205, 153, 248);
 }
 
 a:hover{
@@ -36,7 +37,6 @@ nav ul li a{
     display: block;
     padding: 10px 15px;
     text-decoration: none;
-    color: rgb(205, 153, 248);
 }
 
 nav .ul-header .menu-icon img{
